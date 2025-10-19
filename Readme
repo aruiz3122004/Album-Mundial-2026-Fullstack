@@ -1,0 +1,10 @@
+Ejemplos de consultas (en el navegador, postman, etc.)
+
+http://localhost:3000/teams
+http://localhost:3000/players
+http://localhost:3000/teams/1
+http://localhost:3000/teams/2
+http://localhost:3000/teams/3
+http://localhost:3000/players/1
+http://localhost:3000/players/2
+http://localhost:3000/players/3
