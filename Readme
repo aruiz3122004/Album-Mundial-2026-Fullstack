@@ -8,3 +8,5 @@ http://localhost:3000/teams/3
 http://localhost:3000/players/1
 http://localhost:3000/players/2
 http://localhost:3000/players/3
+
+npm run dev para abrir el server en el puerto 3000
